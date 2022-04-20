@@ -1,10 +1,10 @@
 {
-  "name": "craco-sass-resources-loader",
-  "version": "1.1.0",
-  "description": "A craco plugin to use sass-resources-loader with create-react-app",
-  "repository": "github:tilap/craco-sass-resources-loader",
+  "name": "sass-resources-loader-craco",
+  "version": "1.0.0",
+  "description": "A craco plugin for sass-resources-loader",
+  "repository": "github:j3k2/sass-resources-loader-craco",
   "main": "index.js",
-  "author": "Julien Tilap LA VINH",
+  "author": "j3k2",
   "license": "MIT",
   "keywords": [
     "craco",

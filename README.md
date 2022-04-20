@@ -1,5 +1,7 @@
 # Craco sass-resources-loader
 
+Forked from [https://github.com/tilap/craco-sass-resources-loader](https://github.com/tilap/craco-sass-resources-loader)
+
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 This is a [craco](https://github.com/sharegate/craco) plugin to add [sass-resources-loader](https://www.npmjs.com/package/sass-resources-loader) with [create-react-app](https://facebook.github.io/create-react-app/) version >= 2.
